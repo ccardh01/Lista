@@ -1,0 +1,127 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TNT sports" tvg-logo="" group-title="LATINO",MX | TNT sports
+http://fortv.cc:8080/Dennis/Dennis/57719
+
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery H&H HD" tvg-logo="" group-title="LATINO",MX Discovery H&H HD
+http://fortv.cc:8080/Dennis/Dennis/66245
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="DEP | Fox Sports FHD (MX)" tvg-logo="https://img2.freepng.es/20180604/xow/kisspng-fox-sports-1-television-channel-fox-sports-north-5b158f7a12b585.1088055415281396420767.jpg" group-title="DEPORTES",DEP | Fox Sports FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1073
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports 2 FHD (MX)" tvg-logo="https://1.bp.blogspot.com/-EGQhLPzfFjo/VjbRBEybupI/AAAAAAAAAVQ/3REUtY6advI/s1600/fox%2B2.png" group-title="DEPORTES",DEP | Fox Sports 2 FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1075
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports 3 FHD (MX)" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png" group-title="DEPORTES",DEP | Fox Sports 3 FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1077
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN FHD (MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES",DEP | ESPN FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1079
+
+#EXTINF:-1 tvg-id="foxsports.cl" tvg-name="DEP | Fox Sports 1 FHD (AR)" tvg-logo="https://img2.freepng.es/20180604/xow/kisspng-fox-sports-1-television-channel-fox-sports-north-5b158f7a12b585.1088055415281396420767.jpg" group-title="DEPORTES",DEP | Fox Sports 1 FHD (AR)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1092
+
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="DEP | Fox Sports 2 FHD (CL)" tvg-logo="https://1.bp.blogspot.com/-EGQhLPzfFjo/VjbRBEybupI/AAAAAAAAAVQ/3REUtY6advI/s1600/fox%2B2.png" group-title="DEPORTES",DEP | Fox Sports 2 FHD (CL)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1094
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS HD (AR)" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",DEP | TNT SPORTS HD (AR)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2796
+
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="CINE | TNT HD (CO)" tvg-logo="" group-title="CINE",CINE | TNT HD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2196
+
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="SD | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="SD LATINOS",SD | TNT
+
+#EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="Golden Premier FHD (CO)" tvg-logo="https://i.postimg.cc/Dz5NQ0w2/GOLDEN-PREMIER.png" group-title="FHD LATINOS",Golden Premier FHD (CO)
+
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="Cinecanal FHD (CO)" tvg-logo="https://i.postimg.cc/B6p7S6mS/CINECANAL.png" group-title="FHD LATINOS",Cinecanal FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2204
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD (CO)" tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="FHD LATINOS",Studio Universal FHD (CO)
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINE | CINEMAX HD " tvg-logo="" group-title="CINE",CINE | CINEMAX HD 
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2211
+
+#EXTINF:-1 tvg-id="space.co" tvg-name="SPACE FHD (MX)" tvg-logo="https://i.ibb.co/YkRGmdb/space.png" group-title="FHD LATINOS",SPACE FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2215
+
+#EXTINF:-1 tvg-id="space.co" tvg-name="SD | SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="SD LATINOS",SD | SPACE
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2217
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO " tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="SD LATINOS",SD | HBO 
+
+#EXTINF:-1 tvg-id="hbo2.co" tvg-name="HBO 2 FHD (CO)" tvg-logo="https://i.postimg.cc/nz9cN65Q/HBO2.png" group-title="FHD LATINOS",HBO 2 FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2223
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO FAMILY" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.hbo_fam_dark_2021.png.02f3c24d4dbb10f72c617c7b46ab1872.png" group-title="SD LATINOS",SD | HBO FAMILY
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2228
+
+#EXTINF:-1 tvg-id="hboplus.co" tvg-name="SD | HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png" group-title="SD LATINOS",SD | HBO PLUS
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2230
+
+#EXTINF:-1 tvg-id="paramountchannel.co" tvg-name="SD | PARAMOUNT NETWORK" tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="SD LATINOS",SD | PARAMOUNT NETWORK
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2259
+
+#EXTINF:-1 tvg-id="fox.co" tvg-name="SD | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="SD LATINOS",SD | STAR CHANNEL
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2070
+
+#EXTINF:-1 tvg-id="sony.co" tvg-name="SD | Sony Channel" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="SD LATINOS",SD | Sony Channel
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2073
+
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel.
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2075
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT Series FHD (CO)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="FHD LATINOS",TNT Series FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2088
+
+#EXTINF:-1 tvg-id="EPG123.91993.schedulesdirect.org" tvg-name="VAR | TNT Series HD (MX)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series HD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2089
+
+#EXTINF:-1 tvg-id="trutv.co" tvg-name="Tru TV FHD (CO)" tvg-logo="https://i.postimg.cc/zGFs12dn/220.png" group-title="FHD LATINOS",Tru TV FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2104
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="Discovery H&H FHD (CO)" tvg-logo="https://i.postimg.cc/pVnbRc4B/DISCOVERY-H-H.png" group-title="FHD LATINOS",Discovery H&H FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2120
+
+#EXTINF:-1 tvg-id="nick2" tvg-name="Teen Nick FHD (CO)" tvg-logo="https://i.ibb.co/4tRdXMK/AKed-OLSKLq-8-KM04-PImx-PCSZXkz-Vwxxsu-Fp9t-N3o-CBDi-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="FHD LATINOS",Teen Nick FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2153
+
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="Nick FHD (CO)" tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" group-title="FHD LATINOS",Nick FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2155
+
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick Jr." tvg-logo="" group-title="INFANTILES",INF | Nick Jr.
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2158
+
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="INF | DISNEY HD (MX)" tvg-logo="" group-title="INFANTILES",INF | DISNEY HD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2162
+
+#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES",INF | DISNEY CHANNEL
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2163
+
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="INF | Disney Jr. FHD (MX)" tvg-logo="" group-title="INFANTILES",INF | Disney Jr. FHD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2164
+
+#EXTINF:-1 tvg-id="discoverykidshd.co" tvg-name="Discovery Kids FHD (CO)" tvg-logo="https://i.postimg.cc/c1YxXJxZ/DISCOVERY-KIDS.png" group-title="FHD LATINOS",Discovery Kids FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2174
+
+#EXTINF:-1 tvg-id="history.co" tvg-name="MUN | HISTORY HD (MX)" tvg-logo="" group-title="MUNDOS",MUN | HISTORY HD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2387
+
+#EXTINF:-1 tvg-id="history2.co" tvg-name="SD | History 2 - H2" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="SD LATINOS",SD | History 2 - H2
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2389
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="SD | NATIONAL GEOGRAPHIC" tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" group-title="SD LATINOS",SD | NATIONAL GEOGRAPHIC
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2391
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MUN | NAT GEO (MX)" tvg-logo="" group-title="MUNDOS",MUN | NAT GEO (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2392
+
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="Discovery World FHD (CO)" tvg-logo="https://i.postimg.cc/pXBM9hZG/DISCOVERY-WORLD.png" group-title="FHD LATINOS",Discovery World FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2396
+
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="Discovery Channel FHD (CO)" tvg-logo="https://i.postimg.cc/Rh2rmKQG/DISCOVERY-CHANNEL.png" group-title="FHD LATINOS",Discovery Channel FHD (CO)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2398
+
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MUN | Animal Planet HD (MX)" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDOS",MUN | Animal Planet HD (MX)
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/4698
